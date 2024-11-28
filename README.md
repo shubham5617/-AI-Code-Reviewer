@@ -3,5 +3,7 @@ This project implements an AI-powered code reviewer using Google's Gemini API. I
 
 # Demo Video
 
-https://github.com/user-attachments/assets/7155035a-5da3-4839-981b-63a81cc8ada2
+https://github.com/user-attachments/assets/fe42e96c-179c-4574-ac64-505d616b2dca
+
+
 
